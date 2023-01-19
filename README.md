@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I figured out how to add the README, nice!
+
 <!--
 **jordbort/jordbort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
