@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
 
-## I figured out how to add the README, nice!
+#### I'm a software developer with a lifelong passion for programming, language, and music. I love solving problems with code, and collaborating with others. My specialties include JavaScript technologies (Node.js, React.js, Express.js, Mongoose.js), HTML, and CSS.
 
 <!--
 **jordbort/jordbort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
